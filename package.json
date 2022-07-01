@@ -1,0 +1,12 @@
+{
+  "name": "newbie-5-interactive-rating-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "scssscript": "sass --watch scss/style.scss css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
