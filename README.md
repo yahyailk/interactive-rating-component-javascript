@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component
 
-## I've created the interactive rating component using Html,Scss,Javascript.
+### I've created the interactive rating component using Html,Scss,Javascript.
 
 ![](./screenshots/Screenshot%20(55).png)
 
